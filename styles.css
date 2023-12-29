@@ -1,0 +1,15 @@
+/* Add your preferred styles for the weather app */
+.weather-container {
+    text-align: center;
+    margin: 50px auto;
+}
+
+input {
+    padding: 8px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 8px 20px;
+    cursor: pointer;
+}
